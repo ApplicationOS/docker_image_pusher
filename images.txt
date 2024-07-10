@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 justmine/nginx-nvm-node:16151
 --platform=linux/amd64 cr.geekbuy.cn/appos/web-base:1.0.4
+nginx:stable
+nginx:1.13.12
