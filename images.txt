@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 justmine/nginx-nvm-node:16151
+cr.geekbuy.cn/appos/web-base:1.0.4
