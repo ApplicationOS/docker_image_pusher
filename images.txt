@@ -9,3 +9,5 @@ justmine/nginx-nvm-node:16151
 nginx:stable
 nginx:1.13.12
 eosphorosai/dbgpt
+kong:0.14.0
+pantsel/konga:0.13.0
