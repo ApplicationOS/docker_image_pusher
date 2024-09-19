@@ -9,5 +9,8 @@
 #nginx:stable
 #nginx:1.13.12
 #eosphorosai/dbgpt
-kong:0.14.0
-pantsel/konga:0.13.0
+#kong:0.14.0
+#pantsel/konga:0.13.0
+justmine/exceptionless.api:0.2.0
+justmine/proxysql:2.0.8
+justmine/exceptionless-ui-self-hosted-nginx:0.0.7
