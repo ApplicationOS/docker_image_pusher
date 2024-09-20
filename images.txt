@@ -14,4 +14,5 @@
 #justmine/exceptionless.api:0.2.0
 #justmine/proxysql:2.0.8
 #justmine/exceptionless-ui-self-hosted-nginx:0.0.7
-phpmyadmin/phpmyadmin
+#phpmyadmin/phpmyadmin
+openzipkin/zipkin
