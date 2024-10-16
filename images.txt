@@ -15,4 +15,5 @@
 #justmine/proxysql:2.0.8
 #justmine/exceptionless-ui-self-hosted-nginx:0.0.7
 #phpmyadmin/phpmyadmin
-openzipkin/zipkin
+#openzipkin/zipkin
+jellyfin/jellyfin
