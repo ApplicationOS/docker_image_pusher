@@ -16,4 +16,5 @@
 #justmine/exceptionless-ui-self-hosted-nginx:0.0.7
 #phpmyadmin/phpmyadmin
 #openzipkin/zipkin
-jellyfin/jellyfin
+#jellyfin/jellyfin
+justmine/appos.oss.http:1.0.3
