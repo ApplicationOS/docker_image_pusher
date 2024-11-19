@@ -17,4 +17,5 @@
 #phpmyadmin/phpmyadmin
 #openzipkin/zipkin
 #jellyfin/jellyfin
-justmine/appos.oss.http:1.0.3
+#justmine/appos.oss.http:1.0.3
+obsidiandynamics/kafdrop:3.27.0
