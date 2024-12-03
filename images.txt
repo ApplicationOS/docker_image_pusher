@@ -19,4 +19,5 @@
 #jellyfin/jellyfin
 #justmine/appos.oss.http:1.0.3
 #obsidiandynamics/kafdrop:3.27.0
-bitnami/mysql:8.0.22-debian-10-r23
+#bitnami/mysql:8.0.22-debian-10-r23
+easzlab/kubeasz:3.6.5
