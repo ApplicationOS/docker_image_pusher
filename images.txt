@@ -21,4 +21,5 @@
 #obsidiandynamics/kafdrop:3.27.0
 #bitnami/mysql:8.0.22-debian-10-r23
 #easzlab/kubeasz:3.6.5
-easzlab/kubeasz-k8s-bin:v1.31.2
+#easzlab/kubeasz-k8s-bin:v1.31.2
+docker.io/istio/pilot:1.24.1-distroless
