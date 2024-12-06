@@ -27,4 +27,10 @@
 #docker.io/istio/ztunnel:1.24.1-distroless
 #docker.io/istio/proxyv2:1.24.1-distroless
 #bitnami/mysql:9.0.1
-mysql:8.4.3
+#mysql:8.4.3
+docker.elastic.co/elasticsearch/elasticsearch:7.10.0
+docker.io/bitnami/redis:6.0.9-debian-10-r13
+docker.io/bitnami/kafka
+docker.io/bitnami/zookeeper:3.6.2-debian-10-r58
+docker.io/bitnami/mongodb:4.4.2-debian-10-r0
+mongo-express
