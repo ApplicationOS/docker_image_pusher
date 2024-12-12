@@ -34,4 +34,5 @@
 #docker.io/bitnami/zookeeper:3.6.2-debian-10-r58
 #docker.io/bitnami/mongodb:4.4.2-debian-10-r0
 #mongo-express
-registry.k8s.io/build-image/debian-base:bookworm-v1.0.3
+#registry.k8s.io/build-image/debian-base:bookworm-v1.0.3
+justmine/dotnet8-ffmpeg:1.0
