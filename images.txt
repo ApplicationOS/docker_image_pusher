@@ -35,4 +35,5 @@
 #docker.io/bitnami/mongodb:4.4.2-debian-10-r0
 #mongo-express
 #registry.k8s.io/build-image/debian-base:bookworm-v1.0.3
-justmine/dotnet8-ffmpeg:1.0
+#justmine/dotnet8-ffmpeg:1.0
+justmine/dotnet:2.2.0-aspnetcore-runtime
