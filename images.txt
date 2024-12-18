@@ -38,4 +38,5 @@
 #justmine/dotnet8-ffmpeg:1.0
 #justmine/dotnet:2.2.0-aspnetcore-runtime
 #moby/buildkit:v0.18.1
-mykro/java8-jre:latest
+#mykro/java8-jre:latest
+rabbitmqoperator/cluster-operator:1.6.0
