@@ -41,4 +41,5 @@
 #mykro/java8-jre:latest
 #rabbitmqoperator/cluster-operator:1.6.0
 #rabbitmq:3.8.14-management
-rabbitmq:4.0-management
+#rabbitmq:4.0-management
+docker.io/bitnami/mysql:8.0.22-debian-10-r23
