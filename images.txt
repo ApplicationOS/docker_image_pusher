@@ -36,4 +36,5 @@
 #mongo-express
 #registry.k8s.io/build-image/debian-base:bookworm-v1.0.3
 #justmine/dotnet8-ffmpeg:1.0
-justmine/dotnet:2.2.0-aspnetcore-runtime
+#justmine/dotnet:2.2.0-aspnetcore-runtime
+moby/buildkit:v0.18.1
