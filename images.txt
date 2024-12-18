@@ -40,4 +40,5 @@
 #moby/buildkit:v0.18.1
 #mykro/java8-jre:latest
 #rabbitmqoperator/cluster-operator:1.6.0
-rabbitmq:3.8.14-management
+#rabbitmq:3.8.14-management
+rabbitmq:4.0-management
