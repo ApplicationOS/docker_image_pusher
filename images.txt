@@ -45,4 +45,5 @@
 #docker.io/bitnami/mysql:8.0.22-debian-10-r23
 #infinilabs/console:1.28.0-1972
 #easzlab/flannel:v0.13.0-amd64
-bitnami/redis:6.2.16-debian-12-r3
+#bitnami/redis:6.2.16-debian-12-r3
+apache/kafka:4.0.0
