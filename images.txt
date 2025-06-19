@@ -47,4 +47,5 @@
 #easzlab/flannel:v0.13.0-amd64
 #bitnami/redis:6.2.16-debian-12-r3
 #apache/kafka:4.0.0
-cr.geekbuy.cn/gkb.staging/gkb-m:3.11.10
+#cr.geekbuy.cn/gkb.staging/gkb-m:3.11.10
+phpmyadmin:5.2.0
